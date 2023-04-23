@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Problem definition
 Which Machine Learning model is best in predicting the diagnosis of breast cancer?
 
-##Models used
+## Models used
 Logistic Regression
 Support Vector Machine (SVM)
 Binary classification 
