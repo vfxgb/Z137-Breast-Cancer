@@ -1,4 +1,4 @@
-# Z137-Breast-Cancer
+# Z137 Team 8 Breast Cancer Prediction
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on breast cancer prediction. 
