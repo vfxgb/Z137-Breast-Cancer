@@ -28,11 +28,17 @@ Based on the accuracy values, Logistic regression (accuracy: 0.933) is the best 
 
 ## Reflections (Lessons learnt)
 Usage of K folds 
+
 Usage of stratified K-Folds to improve the K-Folds method 
+
 Logistic Regression 
+
 Linear, Polynomial and Gaussian SVM 
+
 Binary Classification tree
+
 Collaborating using GitHub
+
 Data presentation for video deliverable
 
 ## References 
