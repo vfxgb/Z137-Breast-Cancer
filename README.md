@@ -14,12 +14,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 Which Machine Learning (ML) Model will most accurately predict breast cancer?
 
 ## Models used
-Logistic Regression
-
-Support Vector Machine (SVM)
-
-Binary classification 
-
+[Logistic Regression
+]([url](https://github.com/vfxgb/Z137-Breast-Cancer/blob/main/Logistic%20Regression%20Model.ipynb))
+[Support Vector Machine (SVM)
+]([url](https://github.com/vfxgb/Z137-Breast-Cancer/blob/main/SVM%20Model.ipynb))
+[Binary classification 
+]([url](https://github.com/vfxgb/Z137-Breast-Cancer/blob/main/Binary%20Tree%20Model.ipynb))
 ## Conclusion
 Usage of K fold to decrease variance, lessen overfitting 
 Stratified K fold is better than the typical K fold 
