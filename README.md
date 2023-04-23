@@ -13,7 +13,9 @@ Which Machine Learning model is best in predicting the diagnosis of breast cance
 
 ## Models used
 Logistic Regression
+
 Support Vector Machine (SVM)
+
 Binary classification 
 
 ## Conclusion
