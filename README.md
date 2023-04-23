@@ -10,6 +10,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 @boxuan-yu (Yu Boxuan)
 
+## Video
+[Click here for video](https://www.youtube.com/watch?v=oiFySC_IBiM&ab_channel=KalirajSantoshraj)
+
 ## Problem definition
 Which Machine Learning (ML) Model will most accurately predict breast cancer?
 
