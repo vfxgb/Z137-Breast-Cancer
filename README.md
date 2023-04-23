@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 @boxuan-yu (Yu Boxuan)
 
 ## Problem definition
-Which Machine Learning model is best in predicting the diagnosis of breast cancer?
+Which Machine Learning (ML) Model will most accurately predict breast cancer?
 
 ## Models used
 Logistic Regression
@@ -43,12 +43,7 @@ Data presentation for video deliverable
 
 ## References 
 https://data.world/health/breast-cancer-wisconsin/workspace/file?filename=DatasetDescription.txt
-
 https://www.nccs.com.sg/patient-care/cancer-types/cancer-statistics 
-
 https://www.nhcs.com.sg/news/diseases-outbreaks/breast-prostate-cancers-rising-sharply-in-singapore 
-
 https://www.learndatasci.com/glossary/binary-classification/ 
-
 https://towardsdatascience.com/pca-clearly-explained-how-when-why-to-use-it-and-feature-importance-a-guide-in-python-7c274582c37e
-
